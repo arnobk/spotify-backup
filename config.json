@@ -1,0 +1,7 @@
+config = {
+"uri":"https://spotify-backup.arnob.me",
+"redirect_uri":"https://spotify-backup.arnob.me/login.html",
+"client_id":"3a6e1568ff6c491badd022d40ffe9759",
+"slowdown_import": 100,
+"slowdown_export": 100
+};
